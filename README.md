@@ -4,7 +4,6 @@ This Python project provides a simple graphical user interface (GUI) to convert 
 
 General view : ![image](https://github.com/user-attachments/assets/705ba610-1a8a-4574-bb18-c7d510478505)
 
-
 ## Features
 - **Browse Images**: Allows users to select an image file from their system.
 - **Convert PNG to JPG**: Converts PNG images to JPG format.
